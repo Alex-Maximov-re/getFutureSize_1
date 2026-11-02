@@ -99,6 +99,8 @@ button { cursor: pointer; }
 
 .lang {
   display: flex;
+  width: max-content;
+  justify-self: start;
   border: 1px solid var(--hairline);
   border-radius: 999px;
   overflow: hidden;
