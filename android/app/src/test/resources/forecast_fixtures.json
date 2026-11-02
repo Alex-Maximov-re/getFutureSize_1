@@ -1,0 +1,118 @@
+[
+  {
+    "name": "boy-median-age-8",
+    "sex": "male",
+    "horizonYears": 10.0,
+    "measurements": [
+      {
+        "ageMonths": 96,
+        "heightCm": 127.3,
+        "weightKg": 25.5
+      }
+    ],
+    "endAgeYears": 18.0,
+    "endHeightCm": 176.19106014366508,
+    "endHeightLowCm": 171.69271872324896,
+    "endHeightHighCm": 180.68940156408118,
+    "endWeightKg": 67.3809316335814,
+    "endWeightLowKg": 62.551349153907616,
+    "endWeightHighKg": 73.03100085298094,
+    "endHeightZ": 0.006179150968216749,
+    "endBmiZ": -0.0007989697491523557,
+    "anchorHeightCm": 127.3,
+    "anchorWeightKg": 25.5,
+    "flags": [
+      "singleMeasurement"
+    ]
+  },
+  {
+    "name": "girl-infant-two-year-horizon",
+    "sex": "female",
+    "horizonYears": 2,
+    "measurements": [
+      {
+        "ageMonths": 12,
+        "heightCm": 74.0,
+        "weightKg": 9.0
+      }
+    ],
+    "endAgeYears": 3.0,
+    "endHeightCm": 95.02931869944055,
+    "endHeightLowCm": 93.64599096145378,
+    "endHeightHighCm": 96.41264643742734,
+    "endWeightKg": 13.96900107796767,
+    "endWeightLowKg": 13.545077068932814,
+    "endWeightHighKg": 14.414110539284328,
+    "endHeightZ": -0.005825283778213289,
+    "endBmiZ": 0.054414501557460214,
+    "anchorHeightCm": 74.0,
+    "anchorWeightKg": 9.0,
+    "flags": [
+      "singleMeasurement",
+      "crossesLengthHeightSwitch"
+    ]
+  },
+  {
+    "name": "girl-upward-trend",
+    "sex": "female",
+    "horizonYears": 10.0,
+    "measurements": [
+      {
+        "ageMonths": 72,
+        "heightCm": 115.1,
+        "weightKg": 20.4
+      },
+      {
+        "ageMonths": 96,
+        "heightCm": 128.0,
+        "weightKg": 26.1
+      },
+      {
+        "ageMonths": 120,
+        "heightCm": 141.5,
+        "weightKg": 34.1
+      }
+    ],
+    "endAgeYears": 20.0,
+    "endHeightCm": 167.89882054264692,
+    "endHeightLowCm": 163.9601470470486,
+    "endHeightHighCm": 171.83749403824524,
+    "endWeightKg": 62.83436887486081,
+    "endWeightLowKg": 57.61662734230264,
+    "endWeightHighKg": 68.93890288607194,
+    "endHeightZ": 0.7252882629125723,
+    "endBmiZ": 0.26933109970360924,
+    "anchorHeightCm": 141.5,
+    "anchorWeightKg": 34.1,
+    "flags": [
+      "extendsPastReference"
+    ]
+  },
+  {
+    "name": "boy-age-15-to-adult",
+    "sex": "male",
+    "horizonYears": 10.0,
+    "measurements": [
+      {
+        "ageMonths": 180,
+        "heightCm": 169.0,
+        "weightKg": 56.4
+      }
+    ],
+    "endAgeYears": 25.0,
+    "endHeightCm": 176.58247751785402,
+    "endHeightLowCm": 172.18771374677138,
+    "endHeightHighCm": 180.9772412889366,
+    "endWeightKg": 69.08687490065772,
+    "endWeightLowKg": 64.06750759963757,
+    "endWeightHighKg": 74.88164306555053,
+    "endHeightZ": 0.0053817382107744765,
+    "endBmiZ": -0.011098039626003389,
+    "anchorHeightCm": 169.0,
+    "anchorWeightKg": 56.4,
+    "flags": [
+      "singleMeasurement",
+      "extendsPastReference"
+    ]
+  }
+]

@@ -1,0 +1,1446 @@
+{
+  "sourceLanguage": "ru",
+  "strings": {
+    "home.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будущий рост"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FutureSize"
+          }
+        }
+      }
+    },
+    "home.subtitle": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оценка роста и веса на 10 лет по справочнику ВОЗ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A 10-year height and weight estimate from the WHO reference"
+          }
+        }
+      }
+    },
+    "home.empty.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пока никого нет"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No children yet"
+          }
+        }
+      }
+    },
+    "home.empty.body": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте ребёнка и внесите хотя бы одно измерение. Прошлые годы, если они есть, делают оценку спокойнее."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a child and enter at least one measurement. Earlier years, if you have them, make the estimate steadier."
+          }
+        }
+      }
+    },
+    "home.add": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить ребёнка"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a child"
+          }
+        }
+      }
+    },
+    "home.example": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Посмотреть пример"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View an example"
+          }
+        }
+      }
+    },
+    "home.deleteTitle": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить профиль?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete this profile?"
+          }
+        }
+      }
+    },
+    "home.deleteMessage": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Профиль и все измерения будут удалены с этого устройства."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The profile and every measurement will be deleted from this device."
+          }
+        }
+      }
+    },
+    "home.deleteAction": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить профиль"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete profile"
+          }
+        }
+      }
+    },
+    "home.noMeasurements": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пока нет измерений"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No measurements yet"
+          }
+        }
+      }
+    },
+    "home.choose": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Выберите профиль"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a profile"
+          }
+        }
+      }
+    },
+    "child.editor.new": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Новый ребёнок"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New child"
+          }
+        }
+      }
+    },
+    "child.editor.edit": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ребёнок"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Child"
+          }
+        }
+      }
+    },
+    "child.nickname": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Имя или прозвище"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name or nickname"
+          }
+        }
+      }
+    },
+    "child.nickname.placeholder": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Например, Мира"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "For example, Mira"
+          }
+        }
+      }
+    },
+    "child.sex.note": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Справочники ВОЗ для мальчиков и девочек разные."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The WHO references for boys and girls are different."
+          }
+        }
+      }
+    },
+    "child.sex.male": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Мальчик"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Boy"
+          }
+        }
+      }
+    },
+    "child.sex.female": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Девочка"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Girl"
+          }
+        }
+      }
+    },
+    "measurement.add": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить измерение"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add measurement"
+          }
+        }
+      }
+    },
+    "measurement.edit": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Измерение"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Measurement"
+          }
+        }
+      }
+    },
+    "measurement.age": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Возраст"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Age"
+          }
+        }
+      }
+    },
+    "measurement.years": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Годы"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Years"
+          }
+        }
+      }
+    },
+    "measurement.months": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Месяцы"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Months"
+          }
+        }
+      }
+    },
+    "measurement.height": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рост"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Height"
+          }
+        }
+      }
+    },
+    "measurement.weight": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вес"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weight"
+          }
+        }
+      }
+    },
+    "measurement.deleteTitle": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить измерение?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete this measurement?"
+          }
+        }
+      }
+    },
+    "measurement.deleteMessage": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это измерение будет удалено с устройства."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This measurement will be deleted from the device."
+          }
+        }
+      }
+    },
+    "measurement.duplicate": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В этом возрасте измерение уже есть. Откройте его в списке, чтобы изменить."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "There is already a measurement at this age. Open it in the list to change it."
+          }
+        }
+      }
+    },
+    "measurement.incomplete": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Введите рост и вес числами."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter height and weight as numbers."
+          }
+        }
+      }
+    },
+    "measurement.ageOutOfRange": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Справочник ВОЗ в этом приложении охватывает возраст от рождения до 19 лет."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The WHO reference in this app covers birth to 19 years."
+          }
+        }
+      }
+    },
+    "measurement.outsideModel": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Эти числа слишком далеко от справочника ВОЗ, чтобы продолжать их этой моделью. Проверьте, нет ли опечатки. Если всё введено верно, такую ситуацию должен смотреть врач, а не калькулятор перцентилей."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "These numbers are too far from the WHO reference for this model to continue them. Check for a typo. If they are right, a doctor should look at the situation, not a percentile calculator."
+          }
+        }
+      }
+    },
+    "measurement.unusual": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Точка заметно выше или ниже середины кривой ВОЗ. Сохранить можно, но сверьте возраст, рост и вес."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This point sits well above or below the middle of the WHO curve. You can save it, but check the age, height, and weight."
+          }
+        }
+      }
+    },
+    "measurement.lengthNote": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "До 2 лет ВОЗ сравнивает длину лёжа. Рост стоя в этом возрасте обычно примерно на 0,7 см меньше."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Before age 2, WHO compares length measured lying down. Standing height at that age is usually about 0.7 cm less."
+          }
+        }
+      }
+    },
+    "measurement.standingNote": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С 2 лет ВОЗ сравнивает рост стоя."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "From age 2, WHO compares standing height."
+          }
+        }
+      }
+    },
+    "measurement.section": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Измерения"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Measurements"
+          }
+        }
+      }
+    },
+    "measurement.empty": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавьте текущие возраст, рост и вес. Если помните прошлые годы — их тоже."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add the current age, height, and weight. Add earlier years too if you remember them."
+          }
+        }
+      }
+    },
+    "forecast.needMeasurement": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оценка появится после первого измерения."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The estimate appears after the first measurement."
+          }
+        }
+      }
+    },
+    "forecast.now": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сейчас"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Now"
+          }
+        }
+      }
+    },
+    "forecast.rangeCaption": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Диапазон — если перцентиль немного сдвинется. Это не заключение врача."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The range is what happens if the percentile shifts a little. It is not a doctor’s conclusion."
+          }
+        }
+      }
+    },
+    "forecast.chart.height": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рост"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Height"
+          }
+        }
+      }
+    },
+    "forecast.chart.weight": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вес"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weight"
+          }
+        }
+      }
+    },
+    "forecast.chart.caption": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Точки — ваши измерения. Пунктир — оценка вперёд."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dots are your measurements. The dashed line is the forward estimate."
+          }
+        }
+      }
+    },
+    "forecast.chart.accessibility": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "График оценки. Точные цифры — в таблице ниже."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimate chart. Exact figures are in the table below."
+          }
+        }
+      }
+    },
+    "forecast.table": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "По годам"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Year by year"
+          }
+        }
+      }
+    },
+    "forecast.single": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пока одно измерение: линия держит текущий перцентиль. Добавьте прошлые годы, если помните их."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "With one measurement, the line holds the current percentile. Add earlier years if you remember them."
+          }
+        }
+      }
+    },
+    "forecast.shortSpan": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Между крайними измерениями меньше года, поэтому сдвиг перцентиля почти не учитывается."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The measurements span less than a year, so a percentile shift is barely applied."
+          }
+        }
+      }
+    },
+    "forecast.unusual": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последняя точка далеко от середины кривой ВОЗ. Сверьте рост, вес и возраст."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The latest point is far from the middle of the WHO curve. Check height, weight, and age."
+          }
+        }
+      }
+    },
+    "forecast.pastReference": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Часть оценки старше 19 лет. Дальше справочник ВОЗ рост не ведёт: линия держит взрослый перцентиль и не учитывает питание и образ жизни."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Part of the estimate is past 19 years. After that the WHO reference no longer tracks height: the line holds the adult percentile and does not account for food or daily life."
+          }
+        }
+      }
+    },
+    "forecast.transition": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Около 2 лет на кривой есть ступенька примерно 0,7 см. Так ВОЗ переходит от длины лёжа к росту стоя. Это смена измерения, а не остановка роста."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Around age 2 the curve steps by about 0.7 cm. That is where WHO switches from lying length to standing height. It is a change in measurement, not a stop in growth."
+          }
+        }
+      }
+    },
+    "forecast.fromLatest": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Считаем от последнего введённого возраста, а не от сегодняшней даты."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculated from the latest age you entered, not from today’s date."
+          }
+        }
+      }
+    },
+    "forecast.notesTitle": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как читать оценку"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How to read the estimate"
+          }
+        }
+      }
+    },
+    "forecast.methodTitle": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как считается"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How it is calculated"
+          }
+        }
+      }
+    },
+    "forecast.methodBrief": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Для каждого измерения находится перцентиль роста и индекса массы тела по ВОЗ. Одно измерение продолжается вдоль своего перцентиля. Несколько измерений задают осторожный сдвиг, который затухает и не тянется прямой линией десять лет. Вес считается из будущего роста и перцентиля индекса массы тела."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each measurement is placed on the WHO height and BMI percentiles. One measurement continues along that percentile. Several measurements add a cautious shift that fades instead of running in a straight line for ten years. Weight comes from the future height and the BMI percentile."
+          }
+        }
+      }
+    },
+    "forecast.share": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поделиться оценкой"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share estimate"
+          }
+        }
+      }
+    },
+    "forecast.footer": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оценка по справочнику ВОЗ. Не медицинское изделие и не замена консультации врача."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A WHO reference estimate. Not a medical device and not a substitute for a doctor."
+          }
+        }
+      }
+    },
+    "about.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сведения"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About"
+          }
+        }
+      }
+    },
+    "about.disclaimerHeading": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Важно"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Important"
+          }
+        }
+      }
+    },
+    "about.disclaimerBody": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это учебная оценка для родителей, а не осмотр и не диагноз. Приложение не является медицинским изделием и не заменяет консультацию врача. По этим цифрам нельзя назначать лечение, диету или решать, всё ли в порядке со здоровьем. Если рост или вес беспокоят, покажите ребёнка педиатру."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is an educational estimate for parents, not an examination and not a diagnosis. The app is not a medical device and does not replace a doctor. Do not use these figures to choose treatment or a diet, or to decide whether a child is healthy. If height or weight worries you, take the child to a pediatrician."
+          }
+        }
+      }
+    },
+    "about.methodHeading": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Метод"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Method"
+          }
+        }
+      }
+    },
+    "about.methodBody": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Берём стандарты ВОЗ. До 5 лет это Child Growth Standards 2006, с 5 до 19 лет — справочник роста 2007 года. Для каждого измерения считается перцентиль роста и перцентиль индекса массы тела. Индекс массы тела нужен потому, что он учитывает и вес, и рост. После 10 лет ВОЗ не публикует отдельную таблицу «вес для возраста»: такой вес в основном повторяет рост.\n\nЕсли измерение одно, оценка идёт вдоль текущего перцентиля. Если их несколько, по ним виден сдвиг перцентиля. Вперёд переносится только часть этого сдвига: он затухает за несколько лет и ограничен по величине, чтобы одна короткая вспышка не превращалась в прямую линию на десять лет.\n\nБудущий вес получается из оценённого роста и перцентиля индекса массы тела. Полоса на графике — не доверительный интервал. Она показывает, насколько цифра сдвинется, если перцентиль немного изменится.\n\nДо 2 лет в справочнике длина лёжа, с 2 лет — рост стоя. Разница около 0,7 см, поэтому на кривой в этом возрасте может быть небольшая ступенька. В 10–12 лет девочки того же перцентиля часто выше мальчиков: так устроен справочник. После 19 лет линия больше не описывает рост, а держит взрослый перцентиль."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The estimate uses WHO standards: the Child Growth Standards of 2006 up to age 5, and the 2007 growth reference from 5 to 19. Each measurement gets a height percentile and a BMI percentile. BMI is used because it takes both weight and height into account. After age 10, WHO does not publish a separate weight-for-age table, because that weight mostly echoes height.\n\nOne measurement is extended along its current percentile. Several measurements show whether the percentile is shifting. Only part of that shift is carried forward: it fades over a few years and is limited in size, so one short growth spurt does not become a straight line for ten years.\n\nFuture weight comes from the estimated height and the BMI percentile. The band on the chart is not a confidence interval. It shows how far the figure moves if the percentile changes a little.\n\nBefore age 2 the reference is lying length, and from age 2 it is standing height. The difference is about 0.7 cm, so the curve can step slightly there. Around ages 10 to 12, girls at the same percentile are often taller than boys: that is how the reference is built. After 19 the line no longer describes growth. It holds the adult percentile."
+          }
+        }
+      }
+    },
+    "about.limitsHeading": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чего оценка не умеет"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What this estimate cannot do"
+          }
+        }
+      }
+    },
+    "about.limitsBody": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не учитываются рост родителей, срок полового созревания, болезни, лекарства, питание и нагрузка. Приложение не предсказывает, когда начнётся подростковый скачок роста. Два ребёнка на одном перцентиле не обязаны прийти к одному взрослому росту.\n\nПосле окончания роста вес зависит от жизни, а не от детской кривой. Оценка считается от последнего введённого возраста, а не от сегодняшней даты."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parents’ height, the timing of puberty, illness, medicine, food, and activity are not included. The app does not predict when the adolescent growth spurt will start. Two children on the same percentile do not have to reach the same adult height.\n\nAfter growth ends, weight depends on life, not on the childhood curve. The estimate is counted from the latest age you entered, not from today’s date."
+          }
+        }
+      }
+    },
+    "about.privacyHeading": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Данные"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        }
+      }
+    },
+    "about.privacyBody": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Приложение для родителей и опекунов. Имя или прозвище, выбор справочника, возраст, рост и вес хранятся только на этом устройстве. Аккаунта нет. Рекламы нет. Данные никуда не отправляются.\n\nУдаление профиля стирает его измерения. Удаление приложения стирает всё, что оно сохранило. Если у iPhone включено резервное копирование, Apple может сохранить копию данных устройства в iCloud или на компьютере. Это делает система Apple, не это приложение."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The app is for parents and guardians. A name or nickname, the reference chosen, age, height, and weight stay on this device. There is no account and no advertising. Nothing is sent anywhere.\n\nDeleting a profile erases its measurements. Deleting the app erases everything it stored. If iPhone backup is on, Apple may keep a copy of the device data in iCloud or on a computer. That is done by Apple’s system, not by this app."
+          }
+        }
+      }
+    },
+    "about.sourcesHeading": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Источники"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sources"
+          }
+        }
+      }
+    },
+    "about.sourcesBody": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WHO Child Growth Standards: length/height-for-age and BMI-for-age. Geneva: World Health Organization, 2006.\n\nde Onis M, Onyango AW, Borghi E, Siyam A, Nishida C, Siekmann J. Development of a WHO growth reference for school-aged children and adolescents. Bulletin of the World Health Organization. 2007;85:660–667.\n\nCole TJ, Green PJ. Smoothing reference centile curves: the LMS method and penalized likelihood. Statistics in Medicine. 1992;11:1305–1319.\n\nКоэффициенты LMS взяты из опубликованных таблиц ВОЗ. ВОЗ не проверяла это приложение и не одобряла его."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WHO Child Growth Standards: length/height-for-age and BMI-for-age. Geneva: World Health Organization, 2006.\n\nde Onis M, Onyango AW, Borghi E, Siyam A, Nishida C, Siekmann J. Development of a WHO growth reference for school-aged children and adolescents. Bulletin of the World Health Organization. 2007;85:660–667.\n\nCole TJ, Green PJ. Smoothing reference centile curves: the LMS method and penalized likelihood. Statistics in Medicine. 1992;11:1305–1319.\n\nThe LMS coefficients come from the published WHO tables. WHO has not reviewed this app and has not endorsed it."
+          }
+        }
+      }
+    },
+    "about.replay": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать введение ещё раз"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show the introduction again"
+          }
+        }
+      }
+    },
+    "about.version": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Версия %1$@ (%2$@)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "onboarding.next": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дальше"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next"
+          }
+        }
+      }
+    },
+    "onboarding.accept": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Понимаю и продолжаю"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I understand and continue"
+          }
+        }
+      }
+    },
+    "onboarding.1.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оценка на 10 лет"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A 10-year estimate"
+          }
+        }
+      }
+    },
+    "onboarding.1.body": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Приложение для родителей и опекунов. Введите возраст, рост и вес — сейчас и, если помните, за прошлые годы. Мы оценим, какими могут быть рост и вес через 10 лет, если ребёнок продолжит расти около своего перцентиля по справочнику ВОЗ."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An app for parents and guardians. Enter age, height, and weight — current, and earlier years if you remember them. We estimate what height and weight may be in 10 years if the child keeps growing near their WHO percentile."
+          }
+        }
+      }
+    },
+    "onboarding.2.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прошлые годы помогают"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earlier years help"
+          }
+        }
+      }
+    },
+    "onboarding.2.body": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Одного измерения достаточно для кривой. Два и больше показывают, смещается ли перцентиль. Этот сдвиг учитывается осторожно и затухает: он не продолжается бесконечной прямой."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One measurement is enough for a curve. Two or more show whether the percentile is moving. That shift is applied cautiously and then fades. It does not continue as an endless straight line."
+          }
+        }
+      }
+    },
+    "onboarding.3.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это не диагноз"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is not a diagnosis"
+          }
+        }
+      }
+    },
+    "onboarding.3.body": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это не диагноз и не медицинское изделие. Здесь нет роста родителей, срока полового созревания, болезней и питания. По этим цифрам нельзя лечить, назначать диету и решать, всё ли в порядке. Если что-то беспокоит — нужен педиатр."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is not a diagnosis and not a medical device. Parents’ height, the timing of puberty, illness, and food are not here. These figures cannot be used for treatment, a diet, or deciding that everything is fine. If something worries you, see a pediatrician."
+          }
+        }
+      }
+    },
+    "common.done": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "common.save": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сохранить"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "common.cancel": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отмена"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "common.delete": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Удалить"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete"
+          }
+        }
+      }
+    },
+    "common.close": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Закрыть"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "common.edit": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Изменить"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        }
+      }
+    },
+    "example.name": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Пример"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Example"
+          }
+        }
+      }
+    },
+    "share.title": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "оценка роста и веса"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "height and weight estimate"
+          }
+        }
+      }
+    },
+    "share.footer": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Диапазон показывает небольшой сдвиг перцентиля. Это не заключение врача."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The range shows a small percentile shift. It is not a doctor’s conclusion."
+          }
+        }
+      }
+    },
+    "unit.cm": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "см"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "cm"
+          }
+        }
+      }
+    },
+    "unit.kg": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "кг"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kg"
+          }
+        }
+      }
+    },
+    "table.age": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Возраст"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Age"
+          }
+        }
+      }
+    },
+    "table.height": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рост"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Height"
+          }
+        }
+      }
+    },
+    "table.weight": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Вес"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weight"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
